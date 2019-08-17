@@ -13,5 +13,7 @@ https://www.openssl.org/source/
 
 # Note about Qt
 If you intend to add these libraries to your Qt project, please take into
-account that since the releases 5.13 of Qt you shouldn't use versions of openssl
-older than 1.1.1.
+account that since the version 5.13 of Qt, you shouldn't use a previous version
+of openssl-1.1.1.
+
+
