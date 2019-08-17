@@ -2,10 +2,12 @@
 This repository provides openssl pre-compiled dynamic libraries (i.e. libssl.so and libcrypto.so)
 for android architectures (i.e. armv7 and arm64). The compilation has been done for the
 following stable releases:
+
 openssl-1.0.2r
+
 openssl-1.1.1c
 
-The source code of those releases can be found in openssl website:
+The source code of those releases can be found in the openssl website:
 
 https://www.openssl.org/source/
 
