@@ -1,7 +1,6 @@
-# Android-openssl-binaries
+# openssl-binaries
 This repository provides openssl pre-compiled dynamic libraries (i.e. libssl.so and libcrypto.so)
-for android architectures (i.e. armv7 and arm64). The compilation has been done for the
-following stable releases:
+for android architectures (i.e. armv7 and arm64) and linux desktop. 
 
 ## The compilation has been done for the following stable releases:
 
